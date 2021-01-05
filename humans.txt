@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Alexis Phiro <twitter>
+    Alexis Phiro 
+    alextphiri@gmail.com
+    DevOps Engineer
 
 # THANKS
 
