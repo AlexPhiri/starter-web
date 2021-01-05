@@ -24,4 +24,5 @@ Adding important Notes on GIT Stash.
     jQuery, Modernizr
     Machine Learning,AWS, Kurbenetes
     Docker, C# programmiing
+    AWS Solution Architect Developer
 
