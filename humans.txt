@@ -8,6 +8,7 @@ Hi, I am midifying the file before rebase.
     Alexis Phiro 
     alextphiri@gmail.com
     DevOps Engineer
+    IT firm
 
 # THANKS
 
